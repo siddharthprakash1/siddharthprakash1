@@ -10,5 +10,5 @@
 - ⚡ Fun fact: ...
 
 ### Github `wrapped` '22 :
-> <img src="github-wrapped.png">
+> <img src="ghttps://github.com/siddharthprakash1/siddharthprakash1/blob/main/assets/github-wrapped.png">
 
