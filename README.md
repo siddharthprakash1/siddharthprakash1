@@ -11,5 +11,5 @@
 
 ### Github `wrapped` '22 :
 
-<img src="ghttps://github.com/siddharthprakash1/siddharthprakash1/blob/main/assets/github-wrapped.png">
+<img src="https://github.com/siddharthprakash1/siddharthprakash1/blob/main/assets/github-wrapped.png">
 
