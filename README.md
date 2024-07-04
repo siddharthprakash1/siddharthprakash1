@@ -36,6 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthprakash1&show_icons=true&locale=en" alt="siddharthprakash1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthprakash1&" alt="siddharthprakash1" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github `wrapped` '22 :
 
